@@ -1,1 +1,1 @@
-FROM gcr.io/arrikto/kubeflow/oidc-authservice:28c59ef
+FROM k8s.gcr.io/metrics-server-amd64:v0.3.6
