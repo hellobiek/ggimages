@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/frontend:1.5.0-rc.2
+FROM gcr.io/ml-pipeline/argoexec:v2.12.9-license-compliance
