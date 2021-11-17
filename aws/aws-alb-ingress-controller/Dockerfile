@@ -1,1 +1,1 @@
-FROM amazon/aws-alb-ingress-controller:v2.2.3
+FROM amazon/aws-alb-ingress-controller:v2.3.0
