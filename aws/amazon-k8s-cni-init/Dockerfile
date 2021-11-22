@@ -1,1 +1,1 @@
-FROM 602401143452.dkr.ecr.us-west-2.amazonaws.com/amazon-k8s-cni-init:v1.3.2
+FROM 918309763551.dkr.ecr.cn-north-1.amazonaws.com.cn/amazon-k8s-cni-init:v1.9.3
